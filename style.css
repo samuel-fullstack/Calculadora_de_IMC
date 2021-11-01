@@ -39,6 +39,9 @@ form{
     display: flex;
     flex-direction: column;
 }
+form p{
+    font-size: 13px;
+}
 input{
     margin: 10px;
 }
